@@ -1,0 +1,6 @@
+{
+  "name": "RentScan AI",
+  "description": "Smart-Rent Curator that validates rental listings using Gemini AI to detect scams and misleading info.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
