@@ -1,6 +1,8 @@
 {
   "name": "RentScan AI",
-  "description": "Smart-Rent Curator that validates rental listings using Gemini AI to detect scams and misleading info.",
+  "description": "Deteksi penipuan sewa rumah secara instan. Kami validasi harga, lokasi, dan fasilitas menggunakan AI canggih di pasar Indonesia.",
   "requestFramePermissions": [],
-  "majorCapabilities": []
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
